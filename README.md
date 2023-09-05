@@ -36,6 +36,6 @@
 
 [Predict with a DNN](C4W2_Assignment.ipynb)
 
-[Using RNN's and LSTM's for time series](C4W3_Assignment.ipynb)
+[Using RNN's and LSTM's for time series](C4W3_Assignment)
 
-[Daily Minimum Temperatures in Melbourne - Real Life Data](C4W4_Assignment.ipynb)
+[Daily Minimum Temperatures in Melbourne - Real Life Data](C4W4_Assignment)
