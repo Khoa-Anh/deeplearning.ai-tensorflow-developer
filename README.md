@@ -32,10 +32,10 @@
 
 ## C4 - Sequences, Time Series and Prediction
 
-[Create and Predict Synthetic Data](C4W1_Assignment.ipynb)
+[Working with generated time series](C4W1_Assignment.ipynb)
 
-[Predict with a DNN](C4W2_Assignment.ipynb)
+[Forecasting Using Neural Networks](C4W2_Assignment.ipynb)
 
-[Using RNN's and LSTM's for time series](C4W3_Assignment)
+[Forecast using RNNs or LSTMs](C4W3_Assignment)
 
-[Daily Minimum Temperatures in Melbourne - Real Life Data](C4W4_Assignment)
+[Adding CNNs to improve forecasts](C4W4_Assignment)
